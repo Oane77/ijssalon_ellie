@@ -1,0 +1,23 @@
+[33mcommit 731485814b1b1e56ec717e806c088884aacec256[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Oane Hoeksma <oane.hoeksma@outlook.com>
+Date:   Tue Aug 25 20:04:28 2026 +0200
+
+    bestand tijdelijk.py gecodeerd
+
+[33mcommit 2d52f73dea95e6b3f88b020a14cf9dc8ebd30c99[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Oane Hoeksma <oane.hoeksma@outlook.com>
+Date:   Tue Aug 18 19:42:33 2026 +0200
+
+    bestand helper.py toegevoegd
+
+[33mcommit 5e6376c18cf7f043642d25cbce16ecbb3a0338bb[m
+Author: Alex van Winkel <alexicoo@gmail.com>
+Date:   Sun Feb 13 16:56:46 2022 -0500
+
+    deleted all finished python files
+
+[33mcommit 91b0cb10356b97d0a21a095f0ef4981f6f096c57[m
+Author: Alex van Winkel <alexicoo@gmail.com>
+Date:   Sun Feb 13 16:54:57 2022 -0500
+
+    initial commit
