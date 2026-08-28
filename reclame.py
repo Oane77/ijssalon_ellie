@@ -1,4 +1,4 @@
-#opgave 12 deel1
+#opgave 12 deel 1
 #from algemene_functies import mijn_functie_2
 def mijn_functie_2(a, b):
     return [a + b, a - b, a * b, a / b]
